@@ -1,1 +1,1 @@
-# Templete a Go Website Template Tool
+# (Early WIP) Template Tooling for Go
